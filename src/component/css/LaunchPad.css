@@ -1,0 +1,12 @@
+.LaunchPadcontainer{
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+    /* height: 50%; */
+    width: 79%;
+}
+.spaceXList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

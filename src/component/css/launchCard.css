@@ -1,0 +1,46 @@
+.launchCardContainer{
+    color: white;
+    padding: 10px 14px 20px 15px;
+    background-color: #0f0f0f;
+    width: 342px;
+    margin: 10px;
+    
+    height: 100%;
+}
+.imageLaunchCard{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+.launchDataDetails{
+    opacity: 0.62;
+    /* height: 100px; */
+    /* overflow: hidden; */
+}
+.launchDataDetails ::-webkit-scrollbar {
+    display: none;
+}
+.readMore{
+    height: 35px;
+    padding-top: 8px;
+    text-align: center;
+    /* color: black; */
+    border: 2px solid white;
+    width: 113px;
+}
+.readMore:hover{
+    cursor: pointer;
+}
+.notAvailable{
+    font-weight: 600;
+    font-size: 29px;
+    text-align: center;
+    color: #5db5f44a;
+}
+
+.launchimageHeading{
+    text-align: center;
+    margin: 16px;
+    font-weight: 800;
+    font-size: 30px;
+}

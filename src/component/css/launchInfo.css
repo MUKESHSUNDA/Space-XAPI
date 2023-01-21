@@ -1,0 +1,49 @@
+.launchContainer{
+    color:white
+}
+.launchTitle{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+}
+.launchDescription{
+    margin: 19px 0px 0px 40px;
+}
+.launchBody{
+    padding: 82px;
+    color: white;
+    display: flex;
+    /* justify-content: space-around; */
+    /* margin: auto; */
+    height: 100%;
+    width: 72%;
+}
+
+.launchInfoImage{
+    /* width: 100%; */
+    height: 339px;
+    object-fit: cover;
+}
+.heading{
+    font-weight: 900;
+    font-size:40px;
+}
+.launch_date{
+    opacity: 0.6;
+    font-size: 24px;
+    margin-top: 10px;
+    font-weight: 700;
+    margin-bottom: 11px;
+}
+.launch_details{
+    opacity: 0.6;
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 500;
+    margin-bottom: 11px;
+}
+.back:hover{
+    cursor: pointer;
+    font-weight: 700;
+}
